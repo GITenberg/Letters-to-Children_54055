@@ -1,0 +1,29 @@
+_repo: Letters-to-Children_54055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bridgman, E. C. (Elijah Coleman)
+    alias: Bridgman, Elijah Coleman
+    birthdate: 1801
+    deathdate: 1861
+    gutenberg_agent_id: '47682'
+    url: http://www.gutenberg.org/2009/agents/47682
+description: ''
+gutenberg_issued: '2017-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- Juvenile literature'
+- !lcsh 'Christian life -- Juvenile literature'
+- !lcsh 'Idols and images -- Worship -- Juvenile literature'
+- !lcc 'BV'
+- !lcsh 'Missions -- China -- Juvenile literature'
+- !lcsh 'China -- Religious life and customs -- Juvenile literature'
+- GITenberg
+title: Letters to Children
+url: http://www.gutenberg.org/ebooks/54055
